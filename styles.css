@@ -2,6 +2,7 @@ body{
     display: flex;
     justify-content: center;
     background-image: url(./img/land\ measurement.jpg);
+    background-size: cover;
 }
 h1{
     display: flex;
